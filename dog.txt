@@ -3,3 +3,5 @@ dog file
 edit1
 
 edit2
+
+master - edit
